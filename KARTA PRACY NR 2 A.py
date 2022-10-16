@@ -4,7 +4,9 @@
 # a, b = int(input()), int(input())
 #
 # if (a+b)%2==0:
-#     print
+#     print("TAK")
+# else:
+#    print("NIE")
 
 # zad 2
 # a= int(input())
@@ -17,4 +19,5 @@
 #    print"TAK"
 #else:
 #    print"NIE"
-  
+
+# zad 3
